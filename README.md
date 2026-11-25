@@ -1,2 +1,1 @@
-# CampusPOOL
-Car pooling helper
+# CampusPool
